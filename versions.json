@@ -1,10 +1,10 @@
 {
   "themes": {
     "masterstudy": {
-      "version": "1.0",
+      "version": "1.0"
     },
     "masterstudy-starter": {
-      "version": "1.0",
-    },
+      "version": "1.0"
+    }
   }
 }
